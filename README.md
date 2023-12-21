@@ -2,7 +2,7 @@
 
 ### Modules
     * MMM-Unsplash: https://github.com/parnic/MMM-Unsplash.git
-    * MMM-pollen
+    * MMM-pollen: https://github.com/vincep5/MMM-Pollen
     * MMM-eswordoftheday: https://github.com/daniel-windsor/MMM-eswordoftheday.git
 
 ### Dependencies
