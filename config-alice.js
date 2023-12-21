@@ -142,4 +142,4 @@ let config = {
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
-if (typeof module !== "undefined") {module.exports = config;}Ne7vcIm@xc^6KQ
+if (typeof module !== "undefined") {module.exports = config;}
