@@ -1,8 +1,9 @@
-# 
+# MagicMirror Configs
+https://magicmirror.builders/
 
-### Modules
+### Modules Ive Used
 * MMM-Unsplash: https://github.com/parnic/MMM-Unsplash.git
-* MMM-pollen; https://github.com/vincep5/MMM-Pollen.git
+* MMM-Pollen: https://github.com/vincep5/MMM-Pollen.git
 * MMM-eswordoftheday: https://github.com/daniel-windsor/MMM-eswordoftheday.git
 
 ### Dependencies
