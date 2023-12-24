@@ -7,7 +7,7 @@ https://magicmirror.builders/
 * MMM-eswordoftheday: https://github.com/daniel-windsor/MMM-eswordoftheday.git
 
 ### Dependencies
-* NodeJS > 20: https://github.com/nodesource/distributions#debian-versions
+* For NPM: NodeJS > 20: https://github.com/nodesource/distributions#debian-versions
 
 ### Screenshot
 ![](magicmirror.png)
