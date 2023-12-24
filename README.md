@@ -11,3 +11,4 @@ https://magicmirror.builders/
 
 ### Screenshot
 ![](magicmirror.png)
+![](magicmirror2.png)
